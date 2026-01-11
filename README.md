@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Arber, I'm a 3rd year Chemistry student at McMaster.
 <!--
 **arberhasanaj/arberhasanaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
